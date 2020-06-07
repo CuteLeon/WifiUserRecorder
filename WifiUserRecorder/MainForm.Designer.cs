@@ -38,7 +38,6 @@
             this.Name = "MainForm";
             this.Text = "Wifi User Recorder";
             this.ResumeLayout(false);
-
         }
 
         #endregion
